@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GreenDAO</string>
+    <string name="title_activity_user_crud">UserCRUD</string>
+</resources>
