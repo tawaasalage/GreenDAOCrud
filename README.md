@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-GreenDAOCrud-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/4587)
+
 # GreenDAOCrud
 This is a sample project which helps anybody who wish to work with GreenDAO library.
 This application contains all the thing you need to start creating project using GreenDAO.
